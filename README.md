@@ -1,4 +1,4 @@
-### Hi there 👋
+### Build code, not walls and be powered by curiosity :v:
 
 <!--
 **YoannaPo/YoannaPo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
