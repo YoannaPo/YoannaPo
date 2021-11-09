@@ -1,5 +1,7 @@
 ### Build code, not walls and be powered by curiosity :v:
 
+<img src="https://raw.githubusercontent.com/YoannaPo/YoannaPo/main/images/background_2.svg" alt="background with a two logos"></img>
+
 <!--
 **YoannaPo/YoannaPo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
