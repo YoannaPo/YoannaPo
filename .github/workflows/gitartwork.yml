@@ -9,12 +9,12 @@ jobs:
      runs-on: ubuntu-latest
      steps:
        - uses: actions/checkout@v3
-       - uses: jasineri/gitartwork@v1
-       #- uses: YoannaPo/gitartwork@v1
+       #- uses: jasineri/gitartwork@v1
+       - uses: YoannaPo/gitartwork@v1
          with:
             # Use this username's contribution graph  
             user_name: YoannaPo
             # Text on contribution graph 
             text: JOANNA
-       - uses: jasineri/simple-push-action@v1
-       #- uses: YoannaPo/simple-push-action@v1
+       #- uses: jasineri/simple-push-action@v1
+       - uses: YoannaPo/simple-push-action@v1
