@@ -7,7 +7,12 @@
 
 <a href="https://www.codewars.com/users/YoannaPo" target="_blank"><img src="https://www.codewars.com/users/YoannaPo/badges/large" /></a>
 
-## Languages and tools:
+## Languages and Tools:
+
+<div style="display: flex; flex-direction: row;" align=left >
+ <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img src="https://img.shields.io/static/v1?&style=flat&logo=HTML5&logoColor=black&labelColor=dfb317&label=&message=HTML&black&color=dfb317"/>
+ </a>
 
 ### The basics:
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" title="HTML5" width="40" height="40"/></span>
