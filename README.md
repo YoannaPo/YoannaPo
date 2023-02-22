@@ -13,6 +13,15 @@
  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
   <img src="https://img.shields.io/static/v1?&style=flat&logo=HTML5&logoColor=black&labelColor=dfb317&label=&message=HTML&black&color=dfb317"/>
  </a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <img src="https://img.shields.io/static/v1?&style=flat&logo=CSS3&logoColor=black&labelColor=dfb317&label=&message=CSS&black&color=dfb317"/>
+ </a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://img.shields.io/static/v1?&style=flat&logo=javascript&logoColor=black&labelColor=dfb317&label=&message=JAVASCRIPT&black&color=dfb317"/>
+ </a>
+ <a href="https://developer.mozilla.org/en-US/docs/Glossary/Python" target="_blank">
+   <img src="https://img.shields.io/static/v1?&style=flat&logo=python&logoColor=black&labelColor=dfb317&label=&message=PYTHON&black&color=dfb317"/>
+ </a>
 
 ### The basics:
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" title="HTML5" width="40" height="40"/></span>
