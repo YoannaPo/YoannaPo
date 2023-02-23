@@ -14,10 +14,10 @@
 <br><b>I like to work in a fast-paced, challenging, collaborative, and friendly work environment where I can constantly learn new tools while feeling like I'm making a difference.</b>
  </p>
  <div>
- 🌐 I'm powered by curiosity
- 💻 I'm currently learning JavaScript
- 🌱 I'm excited by the possibilities to implement AI solutions in the frontend world
- ⚡ Fun fact: I can run a 10-kilometre distance 😃 in a shoe without a sole - from a third kilometre of this run. (You can see how my shoe had enough 🤣 on my TT       post here <a href="https://twitter.com/Joanna_Po_/status/1589392167520256001" target="_blank"> 
+  <br>🌐 I'm powered by curiosity
+  <br>💻 I'm currently learning JavaScript
+  <br>🌱 I'm excited by the possibilities to implement AI solutions in the frontend world
+  <br>⚡ Fun fact: I can run a 10-kilometre distance 😃 in a shoe without a sole - from a third kilometre of this run. (You can see how my shoe had enough 🤣 on my TT       post here> <a href="https://twitter.com/Joanna_Po_/status/1589392167520256001" target="_blank"> 
  </div>  
 </div>
 
