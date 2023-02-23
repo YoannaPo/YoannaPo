@@ -23,7 +23,7 @@
    <img src="https://img.shields.io/static/v1?&style=flat&logo=python&logoColor=black&labelColor=dfb317&label=&message=PYTHON&black&color=dfb317"/>
  </a>
  <a href="https://tailwindcss.com/docs/installation" target="_blank">
-  <img src="https://img.shields.io/static/v1?&style=flat&logo=tailwindcss3&logoColor=black&labelColor=dfb317&label=&message=TAILWIND&black&color=dfb317"/>
+  <img src="https://img.shields.io/static/v1?&style=flat&logo=tailwindcss&logoColor=black&labelColor=dfb317&label=&message=TAILWIND&black&color=dfb317"/>
  </a>
  <a href="https://getbootstrap.com" target="_blank">
   <img src="https://img.shields.io/static/v1?&style=flat&logo=bootstrap&logoColor=black&labelColor=dfb317&label=&message=BOOTSTRAP&black&color=dfb317"/>
