@@ -16,7 +16,7 @@
   <br>🌐 I'm powered by curiosity
   <br>💻 I'm currently learning JavaScript
   <br>🌱 I'm excited by the possibilities to implement AI solutions in the frontend world
-  <br>⚡ Fun fact: I can run a 10-kilometre distance 😃 in a shoe without a sole - from a third kilometre of this run. (You can see how my shoe had enough 🤣 on my TT > <a href="https://twitter.com/Joanna_Po_/status/1589392167520256001" target="_blank">post here</a> 
+  <br>⚡ Fun fact: I can run a 10-kilometre distance 😃 in a shoe without a sole - from a third kilometre of this run. (You can see how my shoe had enough 🤣 on my TT <a href="https://twitter.com/Joanna_Po_/status/1589392167520256001" target="_blank">post here</a> 
  </div>  
 </div>
 
