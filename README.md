@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/static/v1?&style=flat&logo=javascript&logoColor=black&labelColor=dfb317&label=&message=JAVASCRIPT&black&color=dfb317"/>
  </a>
  <a href="https://developer.mozilla.org/en-US/docs/Glossary/Python" target="_blank">
-   <img src="https://img.shields.io/static/v1?&style=flat&logo=python&logoColor=black&labelColor=dfb317&label=&message=PYTHON&black&color=dfb317"/>
+   <img src="https://img.shields.io/badge/-Python-dfb317?logo=python&logoColor=000000&style=for-the-badge&logoWidth=30" alt="Python">
  </a>
  <a href="https://tailwindcss.com/docs/installation" target="_blank">
   <img src="https://img.shields.io/static/v1?&style=flat&logo=tailwindcss&logoColor=black&labelColor=dfb317&label=&message=TAILWIND&black&color=dfb317"/>
