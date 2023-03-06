@@ -24,13 +24,13 @@
 
 <div style="display: flex; flex-direction: row;" align=left >
  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-  <img src="https://img.shields.io/static/v1?&style=flat&logo=HTML5&logoColor=black&labelColor=dfb317&label=&message=HTML&black&color=dfb317"/>
+  <img src="https://img.shields.io/badge/-HTML5-dfb317?logo=html5&logoColor=000000&style=for-the-badge&logoWidth=30" alt="HTML5">
  </a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-  <img src="https://img.shields.io/static/v1?&style=flat&logo=CSS3&logoColor=black&labelColor=dfb317&label=&message=CSS&black&color=dfb317"/>
+  <img src="https://img.shields.io/badge/-CSS3-dfb317?logo=css3&logoColor=000000&style=for-the-badge&logoWidth=30" alt="CSS3">
  </a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://img.shields.io/static/v1?&style=flat&logo=javascript&logoColor=black&labelColor=dfb317&label=&message=JAVASCRIPT&black&color=dfb317"/>
+  <img src="https://img.shields.io/badge/-JavaScript-dfb317?logo=javascript&logoColor=000000&style=for-the-badge&logoWidth=30" alt="JavaScript">
  </a>
  <a href="https://developer.mozilla.org/en-US/docs/Glossary/Python" target="_blank">
    <img src="https://img.shields.io/badge/-Python-dfb317?logo=python&logoColor=000000&style=for-the-badge&logoWidth=30" alt="Python">
