@@ -48,16 +48,16 @@
   <img src="https://img.shields.io/badge/-NodeJS-dfb317?logo=nodedotjs&logoColor=000000&style=for-the-badge&logoWidth=30" alt="NodeJS">
  </a>
  <a href="https://expressjs.com/" target="_blank">
-   <img src="https://img.shields.io/static/v1?&style=flat&logo=express&logoColor=black&labelColor=dfb317&label=&message=EXPRESS&black&color=dfb317"/>
+   <img src="https://img.shields.io/badge/-Express-dfb317?logo=express&logoColor=000000&style=for-the-badge&logoWidth=30" alt="ExpressJS">
  </a>
  <a href="https://www.git-scm.com/doc" target="_blank">
-  <img src="https://img.shields.io/static/v1?&style=flat&logo=git&logoColor=black&labelColor=dfb317&label=&message=GIT&black&color=dfb317"/>
+  <img src="https://img.shields.io/badge/-GIT-dfb317?logo=git&logoColor=000000&style=for-the-badge&logoWidth=30" alt="Git">
  </a>
  <a href="https://www.figma.com/" target="_blank">
-  <img src="https://img.shields.io/static/v1?&style=flat&logo=figma&logoColor=black&labelColor=dfb317&label=&message=FIGMA&black&color=dfb317"/>
+  <img src="https://img.shields.io/badge/-Figma-dfb317?logo=figma&logoColor=000000&style=for-the-badge&logoWidth=30" alt="Figma">
  </a>
  <a href="https://helpx.adobe.com/uk/xd/help/adobe-xd-overview.html" target="_blank">
-  <img src="https://img.shields.io/static/v1?&style=flat&logo=adobeXD&logoColor=black&labelColor=dfb317&label=&message=AdobeXD&black&color=dfb317"/>
+  <img src="https://img.shields.io/badge/-Adobe%20XD-dfb317?logo=adobeXD&logoColor=000000&style=for-the-badge&logoWidth=30" alt="AdobeXD">
  </a> 
 </div>
 
