@@ -36,16 +36,16 @@
    <img src="https://img.shields.io/badge/-Python-dfb317?logo=python&logoColor=000000&style=for-the-badge&logoWidth=30" alt="Python">
  </a>
  <a href="https://tailwindcss.com/docs/installation" target="_blank">
-  <img src="https://img.shields.io/static/v1?&style=flat&logo=tailwindcss&logoColor=black&labelColor=dfb317&label=&message=TAILWIND&black&color=dfb317"/>
+  <img src="https://img.shields.io/badge/-TailwindCSS-dfb317?logo=tailwindcss&logoColor=000000&style=for-the-badge&logoWidth=30" alt="TailwindCSS">
  </a>
  <a href="https://getbootstrap.com" target="_blank">
-  <img src="https://img.shields.io/static/v1?&style=flat&logo=bootstrap&logoColor=black&labelColor=dfb317&label=&message=BOOTSTRAP&black&color=dfb317"/>
+  <img src="https://img.shields.io/badge/-Bootstrap-dfb317?logo=bootstrap&logoColor=000000&style=for-the-badge&logoWidth=30" alt="Bootstrap">
  </a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/Accessibility" target="_blank">
-  <img src="https://img.shields.io/static/v1?&style=flat&logo=a11y&logoColor=black&labelColor=dfb317&label=&message=A11Y&black&color=dfb317"/>
+  <img src="https://img.shields.io/badge/-A11y-dfb317?logo=a11y&logoColor=000000&style=for-the-badge&logoWidth=30" alt="A11y">
  </a>
  <a href="https://nodejs.org/en/docs/" target="_blank">
-  <img src="https://img.shields.io/static/v1?&style=flat&logo=nodedotjs&logoColor=black&labelColor=dfb317&label=&message=NODE&black&color=dfb317"/>
+  <img src="https://img.shields.io/badge/-NodeJS-dfb317?logo=nodedotjs&logoColor=000000&style=for-the-badge&logoWidth=30" alt="NodeJS">
  </a>
  <a href="https://expressjs.com/" target="_blank">
    <img src="https://img.shields.io/static/v1?&style=flat&logo=express&logoColor=black&labelColor=dfb317&label=&message=EXPRESS&black&color=dfb317"/>
