@@ -9,7 +9,7 @@
 
 ## About me:
 <div style="display: flex; flex-direction: row;" align=left >
- <p>I'm a long-life learner - currently on a Frontend Bertelsmann-Udacity Scholarship. I'm an amateur runner 🏃‍♀️ I like to see the glass half full.🥃 
+ <p>I’m a lifelong learner, currently in a prompt engineering and automation program financed by Google. I’m also an amateur runner.🏃‍♀️ I like to see the glass half full.🥃 
 <br><b>I like to work in a fast-paced, challenging, collaborative, and friendly work environment, where I can learn new tools while feeling like I'm making a difference.</b>
  </p>
  <div>
@@ -63,6 +63,89 @@
 
 
 ![gitartwork](gitartwork.svg)
+
+<h1 align="center">Projects</h1>
+<table bordercolor="#66b2b2">
+  
+  
+  <tr>
+      <td width="50%" valign="top">
+      <h3 align="center">Moustache Barbershop - eco-friendly website with custom branding</h3>
+        <br/>
+        <a target="_blank" href="https://github.com/YoannaPo/Moustache-Barbershop">
+            <img src="" width="100%" alt="homepage"/>
+        </a>
+        <br/>
+        <p align="center">
+          
+  <a href="https://github.com/YoannaPo/Moustache-Barbershop" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://mbarbershop.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=dfb317&style=plastic&logo"/>
+  </a>
+      </p>
+        <p>Eco-conscious website built with HTML, CSS, and JavaScript, featuring a custom logo, brand identity, and a unique green colour palette.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">ConnectionIT - accessible card redesign & inclusive UX/UI</h3>
+      <br />
+        <a target="_blank" href="https://www.figma.com/design/dVZ2uucBICk7PHKdtLIdkv/ConnectionIT-Project-%26-Accesibility-Portfolio?node-id=0-1&m=dev&t=xJ9gJAv9aztVocHP-1">
+          <img src="" width="100%" alt="figma-presentation"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="https://github.com/YoannaPo/Empowering-Women" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://empowering-women-layout.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=FIGMA&color=dfb317&style=plastic&logo"/>
+  </a>
+      </p>
+        <p>Improved ConnectionIT inclusiveness by evaluating users and redesigning card components with a Hi-Fidelity Figma prototype for better accessibility and usability.</p>
+    </td>
+
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Empowering Women - layout with Tailwind</h3>
+        <br />
+        <a target="_blank" href="https://github.com/YoannaPo/Empowering-Women">
+          <img src="" width="100%" alt="empowering-women-layout"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/YoannaPo/Empowering-Women" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://empowering-women-layout.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=dfb317&style=plastic&logo"/>
+  </a>
+      </p>
+        <p>Tailwind-designed layout with a modern, responsive design.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Bertelsmann scholarship questions</h3>
+        <br />
+        <a target="_blank" href="https://github.com/YoannaPo/Bertelsmann-scholarship-questions/blob/main/README.md">
+          <img src="" width="100%" alt="readme-view"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/YoannaPo/Bertelsmann-scholarship-questions/blob/main/README.md" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://github.com/YoannaPo/Bertelsmann-scholarship-questions/blob/main/questions.md" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=QUESTIONS&color=dfb317&style=plastic&logo"/>
+  </a>
+      </p>
+        <p>Created a question base to structure the knowledge gained during the scholarship.</p>
+    </td>
+  </tr>
+</table>
+
 <!--
 **YoannaPo/YoannaPo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -77,3 +160,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
