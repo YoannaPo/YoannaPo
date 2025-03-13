@@ -96,7 +96,7 @@
   <a href="https://github.com/YoannaPo/ConnectionIT" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://empowering-women-layout.netlify.app/](https://www.figma.com/design/dVZ2uucBICk7PHKdtLIdkv/ConnectionIT-Project-%26-Accesibility-Portfolio?node-id=0-1&m=dev&t=xJ9gJAv9aztVocHP-1" target="_blank">
+  <a href="https://www.figma.com/design/dVZ2uucBICk7PHKdtLIdkv/ConnectionIT-Project-%26-Accesibility-Portfolio?node-id=0-1&m=dev&t=xJ9gJAv9aztVocHP-1" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=FIGMA&color=dfb317&style=plastic&logo"/>
   </a>
       </p>
