@@ -89,7 +89,7 @@
       <h3 align="center">ConnectionIT - accessible card redesign & inclusive UX/UI</h3>
       <br />
         <a target="_blank" href="https://www.figma.com/design/dVZ2uucBICk7PHKdtLIdkv/ConnectionIT-Project-%26-Accesibility-Portfolio?node-id=0-1&m=dev&t=xJ9gJAv9aztVocHP-1">
-          <img src="" width="100%" alt="figma-presentation"/>
+          <img src="https://raw.githubusercontent.com/YoannaPo/YoannaPo/main/assets/ConnectionIT-slide.png" width="100%" alt="figma-presentation"/>
         </a>
       <br />
         <p align="center">
@@ -109,7 +109,7 @@
       <h3 align="center">Empowering Women - layout with Tailwind</h3>
         <br />
         <a target="_blank" href="https://github.com/YoannaPo/Empowering-Women">
-          <img src="" width="100%" alt="empowering-women-layout"/>
+          <img src="https://raw.githubusercontent.com/YoannaPo/YoannaPo/main/assets/EMW.gif" width="100%" alt="empowering-women-layout"/>
         </a>
         <br />
         <p align="center">
@@ -127,7 +127,7 @@
       <h3 align="center">Bertelsmann scholarship questions</h3>
         <br />
         <a target="_blank" href="https://github.com/YoannaPo/Bertelsmann-scholarship-questions/blob/main/README.md">
-          <img src="" width="100%" alt="readme-view"/>
+          <img src="https://raw.githubusercontent.com/YoannaPo/YoannaPo/main/assets/scholarship-questions.png" width="100%" alt="readme-view"/>
         </a>
         <br />
         <p align="center">
