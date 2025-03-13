@@ -88,7 +88,7 @@
     <td width="50%" valign="top">
       <h3 align="center">ConnectionIT - accessible card redesign & inclusive UX/UI</h3>
       <br />
-        <a target="_blank" href="https://www.figma.com/design/dVZ2uucBICk7PHKdtLIdkv/ConnectionIT-Project-%26-Accesibility-Portfolio?node-id=0-1&m=dev&t=xJ9gJAv9aztVocHP-1">
+        <a target="_blank" href="https://www.figma.com/proto/dVZ2uucBICk7PHKdtLIdkv/ConnectionIT-Project-%26-Accesibility-Portfolio?node-id=102-9&p=f&t=WcSYJi0e02wf8R81-1&scaling=contain&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=102%3A9">
           <img src="https://raw.githubusercontent.com/YoannaPo/YoannaPo/main/assets/ConnectionIT-slide.png" width="100%" alt="figma-presentation"/>
         </a>
       <br />
@@ -96,7 +96,7 @@
   <a href="https://github.com/YoannaPo/ConnectionIT" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://www.figma.com/design/dVZ2uucBICk7PHKdtLIdkv/ConnectionIT-Project-%26-Accesibility-Portfolio?node-id=0-1&m=dev&t=xJ9gJAv9aztVocHP-1" target="_blank">
+  <a href="https://www.figma.com/proto/dVZ2uucBICk7PHKdtLIdkv/ConnectionIT-Project-%26-Accesibility-Portfolio?node-id=102-9&p=f&t=WcSYJi0e02wf8R81-1&scaling=contain&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=102%3A9" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=FIGMA&color=dfb317&style=plastic&logo"/>
   </a>
       </p>
