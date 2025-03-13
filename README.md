@@ -1,7 +1,7 @@
 
 ## Build code and be powered by curiosity :v:
 
-<img src="https://raw.githubusercontent.com/YoannaPo/YoannaPo/main/images/background_2.svg" alt="background with a two logos"/>
+<img src="https://raw.githubusercontent.com/YoannaPo/YoannaPo/main/images/background_2.svg" alt="background with two logos"/>
 
 ## Coding Challenges
 
@@ -10,7 +10,7 @@
 ## About me:
 <div style="display: flex; flex-direction: row;" align=left >
  <p>I’m a lifelong learner, currently in a prompt engineering and automation program financed by Google. I’m also an amateur runner.🏃‍♀️ I like to see the glass half full.🥃 
-<br><b>I like to work in a fast-paced, challenging, collaborative, and friendly work environment, where I can learn new tools while feeling like I'm making a difference.</b>
+<br><b>I like to work in a fast-paced, challenging, collaborative, and friendly work environment where I can learn new tools while feeling like I'm making a difference.</b>
  </p>
  <div>
   <br>🌐 I'm powered by curiosity
@@ -62,8 +62,6 @@
 </div>
 
 
-![gitartwork](gitartwork.svg)
-
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
   
@@ -73,7 +71,7 @@
       <h3 align="center">Moustache Barbershop - eco-friendly website with custom branding</h3>
         <br/>
         <a target="_blank" href="https://github.com/YoannaPo/Moustache-Barbershop">
-            <img src="" width="100%" alt="homepage"/>
+            <img src="https://raw.githubusercontent.com/YoannaPo/YoannaPo/main/assets/Mbarbershop_all.gif" width="100%" alt="homepage"/>
         </a>
         <br/>
         <p align="center">
@@ -145,6 +143,8 @@
     </td>
   </tr>
 </table>
+
+![gitartwork](gitartwork.svg)
 
 <!--
 **YoannaPo/YoannaPo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
